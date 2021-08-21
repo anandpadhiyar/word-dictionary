@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    margin-top: 20px;
+}
+.searchWord {
+    margin-top: 8px;
+}
+.my-flex {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+#word-input {
+    margin: 5px 2px;
+}
+#word-button {
+    margin: 5px 2px;
+}
+.alert {
+    visibility: hidden;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
